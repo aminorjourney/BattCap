@@ -5,7 +5,7 @@ This project came about because I purchased some second-hand Nissan LEAF AESC mo
 
 This is my attempt to build a cap to fit over those boards and the battery terminals, protecting the cells (and the end user) from accidental shorts. Designed in Fusion 360 (very badly, by first attempt) and printed on a BambuLab X1C. 
 
-You'll see there's some text on the bottom left side of the lid. These reference the pinouts of the 5-port Micro-Fit breakout box on the TeckŒuest board - but when everything is good on this end, I'll remove that text to make a standard LEAF version. 
+You'll see there's some text on the bottom left side of the lid. These reference the pinouts of the 5-port Micro-Fit breakout box on the TeckQuest board - but when everything is good on this end, I'll remove that text to make a standard LEAF version. 
 
 
 
